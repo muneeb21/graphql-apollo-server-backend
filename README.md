@@ -10,7 +10,7 @@ Backend of a groupchat implementation using gql, subscription and apollo server
 > User<br/>
   Has details about the user such as name, email, password<br/>
  >Message<br/> 
-  Has details of group and user by whom message is sent
+  Has details of group and user by whom message is sent<br/>
   >Group<br/>
   Has details of group and users in it
 
